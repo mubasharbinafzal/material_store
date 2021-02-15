@@ -1,0 +1,53 @@
+[22-Dec-2019 17:09:41 UTC] PHP Warning:  Use of undefined constant ENVIRONMENT - assumed 'ENVIRONMENT' (this will throw an Error in a future version of PHP) in /home2/muftiras/public_html/software/index.php on line 66
+[22-Dec-2019 17:52:26 UTC] PHP Parse error:  syntax error, unexpected '*', expecting end of file in /home2/muftiras/public_html/software/application/config/config.php on line 27
+[22-Dec-2019 17:52:26 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[23-Dec-2019 04:59:13 UTC] PHP Warning:  Use of undefined constant ENVIRONMENT - assumed 'ENVIRONMENT' (this will throw an Error in a future version of PHP) in /home2/muftiras/public_html/software/index.php on line 67
+[23-Dec-2019 04:59:13 UTC] PHP Warning:  Use of undefined constant ENVIRONMENT - assumed 'ENVIRONMENT' (this will throw an Error in a future version of PHP) in /home2/muftiras/public_html/software/index.php on line 67
+[23-Dec-2019 05:00:01 UTC] PHP Warning:  Use of undefined constant ENVIRONMENT - assumed 'ENVIRONMENT' (this will throw an Error in a future version of PHP) in /home2/muftiras/public_html/software/index.php on line 67
+[23-Dec-2019 07:52:55 UTC] PHP Fatal error:  Class 'MY_controller' not found in /home2/muftiras/public_html/software/application/controllers/Auth.php on line 2
+[23-Dec-2019 07:53:48 UTC] PHP Fatal error:  Class 'MY_controller' not found in /home2/muftiras/public_html/software/application/controllers/Auth.php on line 2
+[23-Dec-2019 07:54:52 UTC] PHP Fatal error:  Class 'MY_controller' not found in /home2/muftiras/public_html/software/application/controllers/Auth.php on line 2
+[23-Dec-2019 07:55:38 UTC] PHP Fatal error:  Class 'MY_controller' not found in /home2/muftiras/public_html/software/application/controllers/Auth.php on line 2
+[23-Dec-2019 09:12:01 UTC] PHP Fatal error:  Class 'MY_controller' not found in /home2/muftiras/public_html/software/application/controllers/Auth.php on line 2
+[23-Dec-2019 09:12:15 UTC] PHP Fatal error:  Class 'MY_controller' not found in /home2/muftiras/public_html/software/application/controllers/Auth.php on line 2
+[23-Dec-2019 09:12:21 UTC] PHP Fatal error:  Class 'MY_controller' not found in /home2/muftiras/public_html/software/application/controllers/Auth.php on line 2
+[23-Dec-2019 09:12:23 UTC] PHP Fatal error:  Class 'MY_controller' not found in /home2/muftiras/public_html/software/application/controllers/Auth.php on line 2
+[23-Dec-2019 09:13:03 UTC] PHP Fatal error:  Class 'MY_controller' not found in /home2/muftiras/public_html/software/application/controllers/Auth.php on line 2
+[23-Dec-2019 09:15:50 UTC] PHP Fatal error:  Class 'MY_controller' not found in /home2/muftiras/public_html/software/application/controllers/Auth.php on line 2
+[23-Dec-2019 09:16:07 UTC] PHP Fatal error:  Class 'MY_controller' not found in /home2/muftiras/public_html/software/application/controllers/Auth.php on line 2
+[23-Dec-2019 09:16:09 UTC] PHP Fatal error:  Class 'MY_controller' not found in /home2/muftiras/public_html/software/application/controllers/Auth.php on line 2
+[23-Dec-2019 09:19:20 UTC] PHP Fatal error:  Class 'MY_controller' not found in /home2/muftiras/public_html/software/application/controllers/Auth.php on line 2
+[23-Dec-2019 09:19:57 UTC] PHP Fatal error:  Class 'MY_controller' not found in /home2/muftiras/public_html/software/application/controllers/Auth.php on line 2
+[23-Dec-2019 09:24:11 UTC] PHP Fatal error:  Class 'MY_controller' not found in /home2/muftiras/public_html/software/application/controllers/Auth.php on line 2
+[23-Dec-2019 09:32:05 UTC] PHP Warning:  Use of undefined constant ENVIRONMENT - assumed 'ENVIRONMENT' (this will throw an Error in a future version of PHP) in /home2/muftiras/public_html/software/index.php on line 68
+[23-Dec-2019 10:43:02 UTC] PHP Fatal error:  Class 'MY_controller' not found in /home2/muftiras/public_html/software/application/controllers/Auth.php on line 2
+[23-Dec-2019 13:29:21 UTC] PHP Warning:  Use of undefined constant ENVIRONMENT - assumed 'ENVIRONMENT' (this will throw an Error in a future version of PHP) in /home2/muftiras/public_html/software/index.php on line 68
+[23-Dec-2019 13:29:27 UTC] PHP Warning:  Use of undefined constant ENVIRONMENT - assumed 'ENVIRONMENT' (this will throw an Error in a future version of PHP) in /home2/muftiras/public_html/software/index.php on line 68
+[05-Feb-2020 06:08:41 UTC] PHP Fatal error:  Cannot redeclare Admin::delinvoice() in /home2/muftiras/public_html/material_store/application/controllers/Admin.php on line 151
+[15-Jun-2020 12:46:04 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/muftiras/public_html/material_store/application/views/admin/add_invoice.php on line 5
+[15-Jun-2020 12:59:10 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ']' in /home/muftiras/public_html/material_store/application/config/form_validation.php on line 96
+[16-Jun-2020 06:57:25 UTC] PHP Parse error:  syntax error, unexpected ''.$section_db.'' (T_CONSTANT_ENCAPSED_STRING) in /home/muftiras/public_html/material_store/application/models/Admin_model.php on line 240
+[16-Jun-2020 17:52:30 UTC] PHP Parse error:  syntax error, unexpected 'AND' (T_LOGICAL_AND), expecting ')' in /home/muftiras/public_html/material_store/application/models/Admin_model.php on line 236
+[20-Jun-2020 18:03:55 UTC] PHP Fatal error:  Call to undefined method admin_model::get_invoice_customers() in /home/muftiras/public_html/material_store/application/controllers/Admin.php on line 165
+[21-Jun-2020 17:08:06 UTC] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home/muftiras/public_html/material_store/application/controllers/Admin.php on line 206
+[24-Jun-2020 07:39:26 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/muftiras/public_html/material_store/application/controllers/Admin.php on line 206
+[24-Jun-2020 07:39:37 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/muftiras/public_html/material_store/application/controllers/Admin.php on line 206
+[24-Jun-2020 08:25:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/muftiras/public_html/material_store/application/controllers/Admin.php on line 212
+[24-Jun-2020 08:25:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/muftiras/public_html/material_store/application/controllers/Admin.php on line 212
+[03-Jul-2020 15:15:22 UTC] PHP Fatal error:  Call to undefined method admin_model::generate_customer_ledger() in /home/muftiras/public_html/material_store/application/controllers/Admin.php on line 216
+[03-Jul-2020 17:02:41 UTC] PHP Parse error:  syntax error, unexpected ''.$to_date.'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/muftiras/public_html/material_store/application/models/Admin_model.php on line 293
+[03-Jul-2020 17:04:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/muftiras/public_html/material_store/application/models/Admin_model.php on line 299
+[03-Jul-2020 17:36:10 UTC] PHP Fatal error:  Cannot use [] for reading in /home/muftiras/public_html/material_store/application/views/admin/view_generate_ledger.php on line 47
+[03-Jul-2020 17:36:36 UTC] PHP Fatal error:  Cannot use [] for reading in /home/muftiras/public_html/material_store/application/views/admin/view_generate_ledger.php on line 47
+[07-Jul-2020 08:13:41 UTC] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER) in /home/muftiras/public_html/material_store/application/models/Admin_model.php on line 280
+[07-Jul-2020 11:29:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/muftiras/public_html/material_store/application/models/Admin_model.php on line 331
+[07-Jul-2020 13:41:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/muftiras/public_html/material_store/application/views/admin/view_ledger_stock.php on line 50
+[08-Jul-2020 14:04:25 UTC] PHP Fatal error:  Cannot redeclare admin_model::payment_customer() in /home/muftiras/public_html/material_store/application/models/Admin_model.php on line 326
+[08-Jul-2020 14:05:13 UTC] PHP Fatal error:  Cannot redeclare admin_model::payment_customer() in /home/muftiras/public_html/material_store/application/models/Admin_model.php on line 326
+[08-Jul-2020 14:06:03 UTC] PHP Fatal error:  Cannot redeclare admin_model::payment_customer() in /home/muftiras/public_html/material_store/application/models/Admin_model.php on line 326
+[08-Jul-2020 14:06:22 UTC] PHP Fatal error:  Cannot redeclare admin_model::payment_customer() in /home/muftiras/public_html/material_store/application/models/Admin_model.php on line 326
+[09-Jul-2020 11:03:03 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/muftiras/public_html/material_store/application/controllers/Admin.php on line 307
+[09-Jul-2020 11:27:17 UTC] PHP Fatal error:  Call to undefined method admin_model::invoice_report() in /home/muftiras/public_html/material_store/application/controllers/Admin.php on line 298
+[09-Jul-2020 11:30:44 UTC] PHP Fatal error:  Call to undefined method admin_model::invoice_report() in /home/muftiras/public_html/material_store/application/controllers/Admin.php on line 298
+[09-Aug-2020 18:15:13 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/muftiras/public_html/material_store/application/models/Admin_model.php on line 249
+[13-Aug-2020 06:17:26 UTC] PHP Fatal error:  Call to undefined method admin_model::getcustomer_id() in /home/muftiras/public_html/material_store/application/controllers/Admin.php on line 165
